@@ -10,8 +10,8 @@ DESCRIPTION
 
 When run as a startup script in InDesign, listens for files
 with a filename containing 'construct' (or whatever you
-change var re to - line 38), and automatically produces a
-PDF in the same folder location when the file is closed.
+change var re to), and automatically produces a PDF in the
+same folder location when the file is closed.
 
 **********************************************************/
 
